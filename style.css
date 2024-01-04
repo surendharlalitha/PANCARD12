@@ -1,0 +1,117 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header div {
+    background-color: lightblue;
+    box-shadow: 1px 14px 5px -6px rgba(190, 186, 184, 0.76);
+
+}
+.logo{
+    text-align: center;
+    display: flex;
+    padding-left: 550px;
+}
+div img{
+    margin-top: 5px;
+}
+.home{
+    text-align: righ;
+    
+}
+.ap{
+    background-color: rgb(204, 223, 231);
+    padding: 50px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.i1{
+    width: 100%;
+    height: 35px;
+}
+.a{
+    font-style: italic;
+}
+.h5{
+    color: rgb(68, 124, 197);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.td1{
+    padding-right: 15px;
+    padding-left: 280px;
+}
+.td2{
+    padding-right: 15px;
+}
+.under{
+    text-decoration: none;
+    color: rgb(62, 86, 223);
+}
+.box1{
+    padding-left: 5px;
+    width: 300px;
+    height: 35px;
+}
+.box2{
+    margin-left: 5px;
+    width: 300px;
+    height: 35px;
+}
+.box3{
+    margin-left: 5px;
+    width: 300px;
+    height: 35px;
+}
+.p1{
+    color: rgb(68, 124, 197);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p2{
+    margin-left: 8px;
+    color: rgb(109, 138, 177);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p3{
+    margin-left: 8px;
+    color: rgb(68, 124, 197);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.father{
+    background-color: rgb(204, 223, 231);
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-top: 25px;
+    padding-left: 50px;
+    padding-bottom: 15px;
+    color: black;
+    font-style: italic;
+    padding-top: 15px;
+}
+.dob{
+    background-color: rgb(199, 226, 241);
+    margin-left: 160px;
+    margin-top: 25px;
+    margin-right: 160px;
+    padding-left: 50px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    font-weight: bolder;
+    
+}
+.dob{
+    font-weight: lighter;
+}
+.voter{
+    width: 95%;
+    height: 35px;
+}
+.pass{
+    background-color:rgb(199, 226, 241) ;
+    margin-left: 160px;
+    margin-top: 25px;
+    margin-right: 160px;
+    padding-left: 50px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    
+}
